@@ -1,0 +1,7 @@
+Self Play Results
+================
+
+Total Games: 1000
+Player 1 Wins: 718 (71.80%)
+Player 2 Wins: 282 (28.20%)
+Draws: 0 (0.00%)
